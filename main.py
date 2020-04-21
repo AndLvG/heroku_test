@@ -17,3 +17,4 @@ def index():
 # pip install flask
 # pip install flask-ngrok
 # pip freeze > requirements.txt
+# pip install gunicorn
