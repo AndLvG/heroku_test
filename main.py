@@ -10,8 +10,8 @@ def index():
     return "<h1>Привет от приложения Flask</h1>"
 
 
-# if __name__ == '__main__':
-#     app.run()
+if __name__ == '__main__':
+    app.run()
 
 
 # pip install flask
